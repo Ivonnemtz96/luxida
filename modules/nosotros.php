@@ -47,6 +47,66 @@
   </section>
   <!--== End About Area Wrapper ==-->
 
+
+   <!--== Start About Area Wrapper ==-->
+   <section class="about-area about-default-area" style="padding: 0px;">
+        <div class="container">
+            <div class="row h-100 align-items-center justify-content-around">
+                <div class="col-lg-4 order-3 order-lg-2">
+                    <img src="/assets/img/photos/about2.webp" alt="Image" class="img-fluid" />
+                </div>
+                <div class="col-md-12 col-lg-5 order-2 order-lg-1">
+                    <div class="featured-wrp" style="margin-left: 0px !important;padding: 2rem !important">
+                        <div class="featured-item">
+                            <h4 class="title">
+                                <a href="about.html">Nuestros valores</a>
+                            </h4>
+                            <p>
+                                LUXIDA GROUP es una empresa dedicada a la producción, comercialización y distribuciones
+                                de diferentes materiales esenciales para la construcción complementando nuestros
+                                productos con servicio alternos o hermanos que nos permiten ser unamejor opción
+                                económica para nuestros clientes.
+                            </p>
+                        </div>
+                        <div class="featured-item">
+                            <h4 class="title">
+                                <a href="about.html">Somos Productores</a>
+                            </h4>
+                            <p>
+                                LUXIDA GROUP es una empresa no distribuidora de sus productos por lo cual les permite
+                                ser mas competitivos en el mercado actual con lo que han logrado conquistar el gusto y
+                                preferencia de sus clientes
+                            </p>
+                        </div>
+                        <div class="featured-item">
+                            <h4 class="title">
+                                <a href="about.html">Gran Calidad</a>
+                            </h4>
+                            <p>
+                                LUXIDA GROUP maneja productos de muy buena calidad y cuentan con la infraestructora e
+                                inventarios suficientes para poder atender cualquier tipo de demanda distinguiendose
+                                siempre por el buen trato y servicio.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3 order-1 order-lg-3">
+                    <div class="about-content">
+                        <div class="section-title">
+                            <h4 class="subtitle">Nosotros</h4>
+                            <h1 class="title">
+                                En LUXIDA GROUP somos productores y distribuidores.
+                            </h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--== End About Area Wrapper ==-->
+
+
+
   <!--== Start Divider Area Wrapper ==-->
   <section class="divider-area divider-style1-area">
     <div class="container">
