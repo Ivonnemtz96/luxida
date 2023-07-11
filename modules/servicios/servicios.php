@@ -5,12 +5,12 @@
       <div class="row align-items-center">
         <div class="col-lg-12 m-auto">
           <div class="page-title-content text-center">
-            <h2 class="title">Servicios</h2>
+            <h2 class="title">SERVICIOS</h2>
             <div class="bread-crumbs"><a href="/">Inicio</a>
               <span class="breadcrumb-sep"> // </span>
-              <span>Servicios</span>
+              <span>SERVICIOS</span>
               <span class="breadcrumb-sep"> // </span>
-              <span class="active">Acarreos y fletes</span>
+              <span class="active">ACARREOS Y FLETES</span>
             </div>
           </div>
         </div>
@@ -20,8 +20,8 @@
   </section>
   <div class="row align-items-center"  style="padding-top: 2rem; margin-bottom: 3rem;">
     <div class="col-lg-7 m-auto text-center">
-      <h1>Acarreos y fletes</h1>
-      <p>
+      <h1>ACARREOS Y FLETES</h1>
+      <p style="font-size: 1.25rem;">
         Contamos con una flotilla amplia de Camiones Volteos, Camiones Torton con plataforma, Tracto Camiones con góndolas, plataforma grande o cama baja según sea el caso para el acarreo de materiales, retiros de escombros o fletes según la necesidad  de nuestros clientes, con lo cual garantizamos un excelente servicio.
       </p>
     </div>

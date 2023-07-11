@@ -129,7 +129,7 @@
                         <div class="section-title">
                             <h4 class="subtitle">Nosotros</h4>
                             <h1 class="title">
-                                En LUXIDA GROUP somos productores y distribuidores.
+                                En LUXIDA GROUP somos productores y distribuidores de materiales para construcción.
                             </h1>
                         </div>
                     </div>

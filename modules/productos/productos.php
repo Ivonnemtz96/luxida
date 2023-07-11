@@ -17,7 +17,7 @@
               <a href="product1.php"><img src="/assets/img/productos/laja/lajaGrisVerde.jpg" alt="Image"></a>
             </div>
             <div class="content">
-              <h4 class="title"><a href="contacto.php">Piedra laja amarilla</a></h4>
+              <h4 class="title"><a href="#">Piedra Laja Amarilla</a></h4>
             </div>
           </div>
           <!-- End Service Item -->
@@ -29,7 +29,7 @@
               <a href="product1.php"><img src="/assets/img/productos/laja/laja_blanca.jpg" alt="Image"></a>
             </div>
             <div class="content">
-              <h4 class="title"><a href="contacto.php">Piedra laja blanca</a></h4>
+              <h4 class="title"><a href="#">Piedra Laja Blanca</a></h4>
             </div>
           </div>
           <!-- End Service Item -->
@@ -41,7 +41,7 @@
               <a href="product1.php"><img src="/assets/img/productos/laja/lajaGrisVerde.jpg" alt="Image"></a>
             </div>
             <div class="content">
-              <h4 class="title"><a href="contacto.php">Piedra laja blanca morisca</a></h4>
+              <h4 class="title"><a href="#">Piedra Laja Morisca</a></h4>
             </div>
           </div>
           <!-- End Service Item -->
@@ -53,7 +53,7 @@
               <a href="product1.php"><img src="/assets/img/productos/laja/lajaGrisVerde.jpg" alt="Image"></a>
             </div>
             <div class="content">
-              <h4 class="title"><a href="contacto.php">Piedra laja gris-verde</a></h4>
+              <h4 class="title"><a href="#">Piedra Laja Gris-Verde</a></h4>
             </div>
           </div>
           <!-- End Service Item -->
@@ -65,7 +65,7 @@
               <a href="product1.php"><img src="/assets/img/productos/laja/lajaGrisVerde.jpg" alt="Image"></a>
             </div>
             <div class="content">
-              <h4 class="title"><a href="contacto.php">Piedra laja negra</a></h4>
+              <h4 class="title"><a href="#">Piedra Laja Negra</a></h4>
             </div>
           </div>
           <!-- End Service Item -->
@@ -77,67 +77,7 @@
               <a href="product1.php"><img src="/assets/img/productos/laja/lajaOcre.jpg" alt="Image"></a>
             </div>
             <div class="content">
-              <h4 class="title"><a href="product1.php">Piedra laja Ocre</a></h4>
-            </div>
-          </div>
-          <!-- End Service Item -->
-        </div>
-        <div hidden class="col-sm-6 col-md-3 col-lg-3">
-          <!-- Start Service Item -->
-          <div class="service-item">
-            <div class="thumb">
-              <a href="product1.php"><img src="/assets/img/productos/laja/lajaOcre.jpg" alt="Image"></a>
-            </div>
-            <div class="content">
-              <h4 class="title"><a href="product1.php">Piedra laja Ocre </a></h4>
-            </div>
-          </div>
-          <!-- End Service Item -->
-        </div>
-        <div hidden class="col-sm-6 col-md-4 col-lg-3">
-          <!-- Start Service Item -->
-          <div class="service-item">
-            <div class="thumb">
-              <a href="product1.php"><img src="/assets/img/productos/lajacafe.jpg" alt="Image"></a>
-            </div>
-            <div class="content">
-              <h4 class="title"><a href="product1.php">Piedra laja amarilla-café</a></h4>
-            </div>
-          </div>
-          <!-- End Service Item -->
-        </div>
-        <div hidden class="col-sm-6 col-md-4 col-lg-3">
-          <!-- Start Service Item -->
-          <div class="service-item">
-            <div class="thumb">
-              <a href="product1.php"><img src="/assets/img/productos/lajaocre.jpg" alt="Image"></a>
-            </div>
-            <div class="content">
-              <h4 class="title"><a href="product1.php">Piedra laja ocre</a></h4>
-            </div>
-          </div>
-          <!-- End Service Item -->
-        </div>
-        <div hidden class="col-sm-6 col-md-4 col-lg-3">
-          <!-- Start Service Item -->
-          <div class="service-item">
-            <div class="thumb">
-              <a href="product1.php"><img src="/assets/img/productos/lajanegra.jpg" alt="Image"></a>
-            </div>
-            <div class="content">
-              <h4 class="title"><a href="product1.php">Piedra laja gris-negra</a></h4>
-            </div>
-          </div>
-          <!-- End Service Item -->
-        </div>
-        <div hidden class="col-sm-6 col-md-4 col-lg-3">
-          <!-- Start Service Item -->
-          <div class="service-item">
-            <div class="thumb">
-              <a href="product1.php"><img src="/assets/img/productos/decorativa.jpg" alt="Image"></a>
-            </div>
-            <div class="content">
-              <h4 class="title"><a href="product1.php">Piedra decorativa</a></h4>
+              <h4 class="title"><a href="product1.php">Piedra Laja Ocre</a></h4>
             </div>
           </div>
           <!-- End Service Item -->

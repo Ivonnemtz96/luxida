@@ -4,12 +4,12 @@
          <div class="row align-items-center">
              <div class="col-lg-12 m-auto">
                  <div class="page-title-content text-center">
-                     <h2 class="title">Productos</h2>
+                     <h2 class="title">PRODUCTOS</h2>
                      <div class="bread-crumbs"><a href="/">Inicio</a>
                          <span class="breadcrumb-sep"> // </span>
-                         <span>Productos</span>
+                         <span>PRODUCTOS</span>
                          <span class="breadcrumb-sep"> // </span>
-                         <span class="active">Piedra laja</span>
+                         <span class="active">PIEDRA LAJA</span>
                      </div>
                  </div>
              </div>
@@ -21,53 +21,21 @@
  <!--== End Page Title Area ==-->
  <div class="row align-items-center">
      <div class="col-lg-7 m-auto text-center" style="padding-top: 5rem;">
-         <h1>¿Qué es la piedra laja?</h1>
-         <p>
-             Contamos con la producción de diferentes tonos de piedras lajas  ideales para revestimientos de muros, fachadas o pisos, son piedras con una cara más definida y espesores más delgados. Manejamos presentación Natural o Cortada en formatos de Cintillas, Losetas, Tapetes o Pórfidos.
-            </p>
+         <h1> PIEDRA LAJA</h1>
+         <p style="font-size: 1.25rem;">
+             Contamos con la
+             producción de Piedras Lajas de diferentes
+             tonalidades y formatos originarias de la
+             región de Baja California Sur, las cuales se
+             requieren normalmente para acabos mas
+             finos en exteriores e interiores de Casas
+             Residenciales, Villas, Condominios,
+             Hoteles, Pisos, entre otros. Nuestros
+             productos son comercializados en formato
+             natural o rectificados según la necesidad y gusto de
+             nuestros clientes.
+         </p>
      </div>
-     
-     <section class="service-area service-grid-area" style="margin-top: 1rem!important;">
-         <div class="container">
-             <div class="row text-center justify-content-center">
-                 <h6 style="margin-bottom: 30px;">Colores de piedra laja</h6>
-                 <div class="col-2 col-md-1 col-lg-1">
-                     <!-- Start Service Item -->
-                     <div class="service-item">
-                         <div class="thumb">
-                             <a><img class="piedras" src="/assets/img/productos/laja1.jpg" alt="Image"></a>
-                         </div>
-                     </div>
-                     <!-- End Service Item -->
-                 </div>
-                 <div class="col-2 col-md-1 col-lg-1">
-                     <!-- Start Service Item -->
-                     <div class="service-item">
-                         <div class="thumb">
-                             <a><img class="piedras" src="/assets/img/productos/laja2.jpg" alt="Image"></a>
-                         </div>
-                     </div>
-                     <!-- End Service Item -->
-                 </div>
-                 <div class="col-2 col-md-1 col-lg-1">
-                     <!-- Start Service Item -->
-                     <div class="service-item">
-                         <div class="thumb">
-                             <a><img class="piedras" src="/assets/img/productos/laja3.jpg" alt="Image"></a>
-                         </div>
-                     </div>
-                     <!-- End Service Item -->
-                 </div>
-                 <div class="col-2 col-md-1 col-lg-1">
-                     <!-- Start Service Item -->
-                     <div class="service-item">
-                         <div class="thumb">
-                             <a><img class="piedras" src="/assets/img/productos/laja4.jpg" alt="Image"></a>
-                         </div>
-                     </div>
-                     <!-- End Service Item -->
-                 </div>
-             </div>
-         </div>
-     </section>
+
+    
  </div>

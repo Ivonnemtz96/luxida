@@ -79,7 +79,7 @@
                             </div>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="#test-modal" class="open-popup-link">Polvo</a></h4>
+                            <h4 class="title"><a href="#test-modal" class="open-popup-link">Arena</a></h4>
                         </div>
                     </div>
                     <!-- End Service Item -->
