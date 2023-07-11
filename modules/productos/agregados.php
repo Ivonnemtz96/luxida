@@ -24,7 +24,7 @@
                             </div>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="#">Grava 3/4</a></h4>
+                            <h4 class="title"><a href="#test-modal" class="open-popup-link">Grava 3/4</a></h4>
                         </div>
                     </div>
                     <!-- End Service Item -->
@@ -43,7 +43,7 @@
                             </div>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="#">Grava 1½</a></h4>
+                            <h4 class="title"><a href="#test-modal" class="open-popup-link">Grava 1½</a></h4>
                         </div>
                     </div>
                     <!-- End Service Item -->
@@ -60,7 +60,7 @@
                             </div>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="#">Grava 3/8</a></h4>
+                            <h4 class="title"><a href="#test-modal" class="open-popup-link">Grava 3/8</a></h4>
                         </div>
                     </div>
                     <!-- End Service Item -->
@@ -79,7 +79,7 @@
                             </div>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="#">Polvo</a></h4>
+                            <h4 class="title"><a href="#test-modal" class="open-popup-link">Polvo</a></h4>
                         </div>
                     </div>
                     <!-- End Service Item -->
@@ -96,10 +96,10 @@
                                 <img src="/assets/img/productos/lajagris.jpg" alt="Image">
 
                             </div>
-                            <!-- <a href="#"><img src="/assets/img/productos/lajagris.jpg" alt="Image"></a> -->
+                            <!-- <a href="#test-modal" class="open-popup-link"><img src="/assets/img/productos/lajagris.jpg" alt="Image"></a> -->
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="#">Tierra base</a></h4>
+                            <h4 class="title"><a href="#test-modal" class="open-popup-link">Tierra base</a></h4>
                         </div>
                     </div>
                     <!-- End Service Item -->
@@ -118,7 +118,8 @@
                             </div>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="#">Polvo de trituración</a></h4>
+                            <h4 class="title"><a href="#test-modal" class="open-popup-link">Polvo de trituración</a>
+                            </h4>
                         </div>
                     </div>
                     <!-- End Service Item -->
@@ -136,7 +137,7 @@
                             </div>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="#">Base Hidráulica</a></h4>
+                            <h4 class="title"><a href="#test-modal" class="open-popup-link">Base Hidráulica</a></h4>
                         </div>
                     </div>
                     <!-- End Service Item -->
@@ -176,3 +177,15 @@
 </main>
 
 <!-- <div class="fotorama" data-autoplay="true"></div> -->
+
+<div id="test-modal" class="container white-popup mfp-hide"
+    style="background-color: #fff; text-align: center; max-width: 60rem; padding: 2rem;">
+    <h1>Texto de ejemplo</h1>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta quia iure molestias placeat a tenetur veritatis
+        eius vero ex neque, aliquid eum quos assumenda, dignissimos iusto in voluptas, explicabo dolores. Adipisci
+        beatae sint nisi ducimus excepturi dicta voluptas, ipsa a quibusdam labore, dignissimos id odio ad perspiciatis
+        dolore itaque inventore?
+    </p>
+    <p><a class="popup-modal-dismiss" href="#">Regresar</a></p>
+</div>
