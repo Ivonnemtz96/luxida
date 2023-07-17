@@ -28,7 +28,7 @@
             Los Cabos, B.C.S. que se requieren para la
             construcción de Muros, Chapeo de Muros,
             Gaviones, Ciclópeos, Escolleras, Filtros, entre
-            otros. <br><br>
+            otros. <br>
             Somos lideres productores de piedra ya
             que constamos con la mayor capacidad de
             producción de la zona y nuestros inventarios e

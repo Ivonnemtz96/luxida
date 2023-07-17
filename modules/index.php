@@ -7,7 +7,7 @@
                     <div class="swiper-slide">
                         <!-- Start Slide Item -->
                         <div class="home-slider-item">
-                            <div class="slider-content-area bg-img" data-bg-img="/assets/img/slider/2.webp">
+                            <div class="slider-content-area bg-img" data-bg-img="/assets/img/slider/3.jpg">
                                 <div hidden class="container">
                                     <div class="row">
                                         <div class="col-sm-12 col-md-6 col-lg-5 col-xl-6">
