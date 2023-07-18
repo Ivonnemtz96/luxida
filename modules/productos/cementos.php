@@ -13,7 +13,7 @@
                             <span class="breadcrumb-sep"> // </span>
                             <span>PRODUCTOS</span>
                             <span class="breadcrumb-sep"> // </span>
-                            <span class="active">CONCRETO</span>
+                            <span class="active">CEMENTOS</span>
                         </div>
                     </div>
                 </div>
@@ -24,14 +24,12 @@
     <!--== End Page Title Area ==-->
     <div class="row align-items-center">
         <div class="col-lg-7 m-auto text-center" style="padding-top: 5rem;">
-            <h1>CONCRETO PREMEZCLADO</h1>
+            <h1>CEMENTOS</h1>
             <!-- <p>
              Tenemos alianzas comerciales con los principales productores de Concretos y Block de la zona para su distribución, nuestro personal está altamente capacitado para poder brindar la mejor atención y asesoría a nuestros clientes, garantizando la calidad de los productos y manejando precios competitivos en el mercado actual.
             </p> -->
         </div>
     </div>
-
-
     <!--== Start Service Area Wrapper ==-->
     <section class="service-area service-grid-area">
         <div class="container">
@@ -41,34 +39,26 @@
                     <div class="service-item">
                         <!-- <h4 class="title"><a href="#">Block Industrial</a></h4> -->
                         <p style="text-align: justify;">
-                            Somos especialistas en la fabricación de Concreto
-                            Premezclado, contamos con una gran variedad de
-                            diseños de mezcla para poder atender cualquier tipo
-                            de obra. Nuestros productos cumplen con todas las
-                            norma de calidad y te asesoramos de forma
-                            personalizada desde el inicio de tu obra hasta el final
-                            de la misma.
-                            Nuestros principales productos son: <br>
-                            - Concretos Convencionales <br>
-                            - Concretos Resistencias Rápidas <br>
-                            - Morteros <br>
-                            - Concretos MR <br>
-                            - Rellenos Fluidos <br>
+                            Con el objetivos de dar un servicio mas
+                            completos a nuestros clientes, contamos con la
+                            distribución de Cemento Gris Fortaleza CPC 30 R
+                            RS para cualquier tipo de obra.
+                            Manejamos precios muy competitivos al
+                            consumir algunos de nuestros demás productos
+
+                            Nuestros principales productos son: <br><br>
+                            - Cemento Gris Bulto 50 Kg <br>
+                            - Cemento Gris Big Bag <br>
+                            - Mortero Gris Bulto 50 Kg <br>
 
                         </p>
                     </div>
                     <!-- End Service Item -->
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="fotorama" data-autoplay="true" data-allowfullscreen="true" data-width="800"
-                        data-height="600">
-                        <img src="/assets/img/productos/laja/lajaGrisVerde.jpg" alt="Image">
-                        <img src="/assets/img/productos/laja/lajaGrisVerde.jpg" alt="Image">
-                        <img src="/assets/img/productos/laja/lajaGrisVerde.jpg" alt="Image">
-                        <img src="/assets/img/productos/laja/lajaGrisVerde.jpg" alt="Image">
-                        <img src="/assets/img/productos/laja/lajaGrisVerde.jpg" alt="Image">
-                    </div>
+                <div class="col-12 col-md-6 col-lg-6 text-center">
+
+                    <img class="img-fluid" src="/assets/img/productos/laja/lajaGrisVerde.jpg" alt="Image">
 
                 </div>
             </div>
