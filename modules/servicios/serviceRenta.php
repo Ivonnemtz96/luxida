@@ -44,7 +44,7 @@
                   </div>
               </div>
 
-              <div class="col-10">
+              <div hidden class="col-10">
                   <div class="row justify-content-center align-items-center">
                       <div class="col-8">
                           <h2>Moffet</h2>
@@ -61,3 +61,6 @@
       </div>
   </section>
   <!--== End Service Area Wrapper ==-->
+
+
+ 
