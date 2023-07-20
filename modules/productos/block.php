@@ -34,7 +34,7 @@
                     <!-- End Service Item -->
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-6 text-center">
+                <div class="col-12 col-md-6 col-lg-6">
                     <div class="fotorama" data-autoplay="true" data-allowfullscreen="true" data-width="800"
                         data-height="600">
                         <img src="/assets/img/productos/laja/lajaGrisVerde.jpg" alt="Image">
