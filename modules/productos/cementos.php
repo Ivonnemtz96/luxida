@@ -58,7 +58,7 @@
 
                 <div class="col-12 col-md-6 col-lg-6 text-center">
 
-                    <img class="img-fluid" src="/assets/img/productos/laja/lajaGrisVerde.jpg" alt="Image">
+                    <img class="img-fluid" src="/assets/img/cemento.png" alt="Image">
 
                 </div>
             </div>

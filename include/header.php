@@ -61,7 +61,7 @@
 									</ul>
 								</div> -->
 								<div class="header-action-btn">
-									<a class="btn-theme" href="contacto.php"><span>Cotizar</span></a>
+									<a class="btn-theme" href="cotizar.php"><span>Cotizar</span></a>
 								</div>
 								<button class="btn-menu d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasWithBothOptions" aria-controls="offcanvasWithBothOptions">
 									<span class="icon-line"></span>

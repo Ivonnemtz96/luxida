@@ -93,7 +93,7 @@
                     <div class="featured-wrp" style="margin-left: 0px !important;padding: 2rem !important">
                         <div class="featured-item">
                             <h4 class="title">
-                                <a href="about.html">Nuestra Empresa</a>
+                                <a href="nosotros.php">Nuestra Empresa</a>
                             </h4>
                             <p>
                                 LUXIDA GROUP es una empresa dedicada a la producción, comercialización y distribuciones
@@ -104,7 +104,7 @@
                         </div>
                         <div class="featured-item">
                             <h4 class="title">
-                                <a href="about.html">Somos Productores</a>
+                                <a href="nosotros.php">Somos Productores</a>
                             </h4>
                             <p>
                                 LUXIDA GROUP es una empresa no distribuidora de sus productos por lo cual les permite
@@ -114,7 +114,7 @@
                         </div>
                         <div class="featured-item">
                             <h4 class="title">
-                                <a href="about.html">Gran Calidad</a>
+                                <a href="nosotros.php">Gran Calidad</a>
                             </h4>
                             <p>
                                 LUXIDA GROUP maneja productos de muy buena calidad y cuentan con la infraestructora e
@@ -158,12 +158,12 @@
                                 <!-- Start Service Item -->
                                 <div class="service-item">
                                     <div class="thumb">
-                                        <a href="servicios.php"><img src="/assets/img/service/4.jpg" alt="Image"
+                                        <a href="agregados.php"><img src="/assets/img/service/4.jpg" alt="Image"
                                                 width="270" height="308" /></a>
                                     </div>
                                     <div class="content">
                                         <h4 class="title">
-                                            <a href="servicios.php">Agregados</a>
+                                            <a href="agregados.php">Agregados</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -173,12 +173,12 @@
                                 <!-- Start Service Item -->
                                 <div class="service-item">
                                     <div class="thumb">
-                                        <a href="productos.php"><img src="/assets/img/service/1.jpg" alt="Image"
+                                        <a href="piedrasMampost.php"><img src="/assets/img/service/1.jpg" alt="Image"
                                                 width="270" height="308" /></a>
                                     </div>
                                     <div class="content">
                                         <h4 class="title">
-                                            <a href="productos.php">Piedra para mampostería</a>
+                                            <a href="piedrasMampost.php">Piedra para mampostería</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -189,12 +189,12 @@
                                 <!-- Start Service Item -->
                                 <div class="service-item">
                                     <div class="thumb">
-                                        <a href="servicios.php"><img src="/assets/img/service/3.jpg" alt="Image"
+                                        <a href="productos.php"><img src="/assets/img/service/3.jpg" alt="Image"
                                                 width="270" height="308" /></a>
                                     </div>
                                     <div class="content">
                                         <h4 class="title">
-                                            <a href="servicios.php">Piedras lajas</a>
+                                            <a href="productos.php">Piedras lajas</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -207,12 +207,44 @@
                                 <!-- Start Service Item -->
                                 <div class="service-item">
                                     <div class="thumb">
-                                        <a href="servicios.php"><img src="/assets/img/service/6.jpg" alt="Image"
+                                        <a href="concreto.php"><img src="/assets/img/service/6.jpg" alt="Image"
                                                 width="270" height="308" /></a>
                                     </div>
                                     <div class="content">
                                         <h4 class="title">
-                                            <a href="servicios.php">Concreto & Block</a>
+                                            <a href="concreto.php">Concreto</a>
+                                        </h4>
+                                    </div>
+                                </div>
+                                <!-- End Service Item -->
+                            </div>
+
+                            <div class="swiper-slide">
+                                <!-- Start Service Item -->
+                                <div class="service-item">
+                                    <div class="thumb">
+                                        <a href="block.php"><img src="/assets/img/productos/block/block.jpg" alt="Image"
+                                                width="270" height="308" /></a>
+                                    </div>
+                                    <div class="content">
+                                        <h4 class="title">
+                                            <a href="block.php">Block</a>
+                                        </h4>
+                                    </div>
+                                </div>
+                                <!-- End Service Item -->
+                            </div>
+
+                            <div class="swiper-slide">
+                                <!-- Start Service Item -->
+                                <div class="service-item">
+                                    <div class="thumb">
+                                        <a href="cemento.php"><img src="/assets/img/cemento.png" alt="Image"
+                                                width="370" height="308" /></a>
+                                    </div>
+                                    <div class="content">
+                                        <h4 class="title">
+                                            <a href="cemento.php">Cementos</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -239,12 +271,12 @@
                                 <!-- Start Service Item -->
                                 <div class="service-item">
                                     <div class="thumb">
-                                        <a href="servicios.php"><img src="/assets/img/service/maquina.jpg" alt="Image"
+                                        <a href="renta.php"><img src="/assets/img/service/maquina.jpg" alt="Image"
                                                 width="270" height="308" /></a>
                                     </div>
                                     <div class="content">
                                         <h4 class="title">
-                                            <a href="servicios.php">Renta de maquinaria</a>
+                                            <a href="renta.php">Renta de maquinaria</a>
                                         </h4>
                                     </div>
                                 </div>
@@ -255,12 +287,12 @@
                                 <!-- Start Service Item -->
                                 <div class="service-item">
                                     <div class="thumb">
-                                        <a href="servicios.php"><img src="/assets/img/service/obras.jpg" alt="Image"
+                                        <a href="obra.php"><img src="/assets/img/service/obras.jpg" alt="Image"
                                                 width="270" height="308" /></a>
                                     </div>
                                     <div class="content">
                                         <h4 class="title">
-                                            <a href="servicios.php">Obras</a>
+                                            <a href="obra.php">Obras</a>
                                         </h4>
                                     </div>
                                 </div>

@@ -13,9 +13,9 @@
     <!--== Favicon ==-->
     <link rel="shortcut icon" href="/assets/img/favicon.png" type="image/x-icon" />
     <meta name="keywords"
-        content="servicios a domicilio en los cabos, servicio a domicilio en los cabos, entregas a domicilio en los cabos, servicios a domicilio en san jose del cabo, repartidores en los cabos" />
+        content="" />
     <meta name="description"
-        content="Rapido a tu puerta ofrece servicios de mensajeria y paqueteria local en los cabos, hacemos todo tipo de entregas a domicilio como comida, bebidas, documentos, medicamentos, pago de servicios y mandados" />
+        content="" />
     <!--== Google Fonts ==-->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />

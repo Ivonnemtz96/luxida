@@ -65,7 +65,7 @@
                     <div class="featured-wrp" style="margin-left: 0px !important;padding: 2rem !important">
                         <div class="featured-item">
                             <h4 class="title">
-                                <a href="about.html">Nuestros valores</a>
+                                <a >Nuestros valores</a>
                             </h4>
                             <p>
                                 LUXIDA GROUP es una empresa dedicada a la producción, comercialización y distribuciones
@@ -76,7 +76,7 @@
                         </div>
                         <div class="featured-item">
                             <h4 class="title">
-                                <a href="about.html">Somos Productores</a>
+                                <a >Somos Productores</a>
                             </h4>
                             <p>
                                 LUXIDA GROUP es una empresa no distribuidora de sus productos por lo cual les permite
@@ -86,7 +86,7 @@
                         </div>
                         <div class="featured-item">
                             <h4 class="title">
-                                <a href="about.html">Gran Calidad</a>
+                                <a >Gran Calidad</a>
                             </h4>
                             <p>
                                 LUXIDA GROUP maneja productos de muy buena calidad y cuentan con la infraestructora e
@@ -130,7 +130,7 @@
                         <div class="column-right">
                             <div class="content">
                                 <h2 class="title">
-                                    <a id="luxLink" href="tel:6241088476" class="text-white">624 108 8476</a>
+                                    <a id="luxLink" href="tel:6241240571" class="text-white">(624) 124 0571</a>
                                 </h2>
                             </div>
                         </div>
