@@ -83,7 +83,7 @@
     <!--== End Tracking Area Wrapper ==-->
 
     <!--== Start About Area Wrapper ==-->
-    <section class="about-area about-default-area">
+    <section hidden class="about-area about-default-area">
         <div class="container">
             <div class="row h-100 align-items-center justify-content-around">
                 <div class="col-lg-4 order-3 order-lg-2">
