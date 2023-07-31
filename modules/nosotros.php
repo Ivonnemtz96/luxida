@@ -30,19 +30,29 @@
                     <div class="about-content">
                         <div class="section-title">
                             <h4 class="subtitle">¿Quiénes somos?</h4>
-                            <h2 class="title">
-                                LUXIDA GROUP es un grupo de empresas dedicadas a la producción y comercialización de
-                                piedras naturales y agregados en la zona de los cabos.
-                            </h2>
-                            <p>
-                                Somos una empresa no distribuidora de sus productos por lo cual les permite ser mas
-                                competitivos en el mercado actual con lo que han logrado conquistar el gusto y
-                                preferencia de sus clientes.
+                            <p style="font-size: 1.25rem;">
+                                <strong>LUXIDA GROUP</strong> es una empresa familiar 100% sudcaliforniana que inicia sus operaciones en
+                                el año 2016
+                                con la producción y comercialización de Agregados Pétreos y Piedras Naturales en la
+                                ciudad de Los Cabos, B.C.S.
+                                entre otros productos y servicios necesarios para la Construcción en General.
                             </p>
-                            <p>
-                                Manejamos productos de muy buena calidad y cuentan con la infraestructora e inventarios
-                                suficientes para poder atender cualquier tipo de demanda distinguiendose siempre por el
-                                buen trato y servicio.
+                            <p style="font-size: 1.25rem;">
+                                <strong>LUXIDA GROUP</strong> es una empresa productora de materiales indispensables para la construcción
+                                como lo son
+                                los Agregados Pétreos, Piedras para Mampostería, Piedras Lajas y Concreto Premezclado,
+                                esto nos ha permitido
+                                hacer alianzas comerciales con otras empresas para lograr ser distribuidores de otros
+                                materiales para la
+                                construcción como el Block y Cemento, con lo cual hemos logrado ser mas competitivos en
+                                el mercado actual y de
+                                esta forma poder conquistar el gusto y preferencia de nuestros clientes.
+                            </p>
+                            <p style="font-size: 1.25rem;">
+                                <strong>LUXIDA GROUP</strong> maneja productos de muy buena calidad y cuenta con la infraestructura e
+                                inventarios
+                                suficientes para poder atender cualquier demanda, distinguiéndonos siempre por el buen
+                                trato y servicio.
                             </p>
                             <a href="contacto.php" class="btn-theme">Contáctanos</a>
                         </div>
@@ -65,7 +75,7 @@
                     <div class="featured-wrp" style="margin-left: 0px !important;padding: 2rem !important">
                         <div class="featured-item">
                             <h4 class="title">
-                                <a >Nuestros valores</a>
+                                <a>Misión</a>
                             </h4>
                             <p>
                                 LUXIDA GROUP es una empresa dedicada a la producción, comercialización y distribuciones
@@ -76,7 +86,7 @@
                         </div>
                         <div class="featured-item">
                             <h4 class="title">
-                                <a >Somos Productores</a>
+                                <a>Visión</a>
                             </h4>
                             <p>
                                 LUXIDA GROUP es una empresa no distribuidora de sus productos por lo cual les permite
@@ -86,7 +96,7 @@
                         </div>
                         <div class="featured-item">
                             <h4 class="title">
-                                <a >Gran Calidad</a>
+                                <a>Valores</a>
                             </h4>
                             <p>
                                 LUXIDA GROUP maneja productos de muy buena calidad y cuentan con la infraestructora e
@@ -141,86 +151,6 @@
     </section>
     <!--== End Divider Area Wrapper ==-->
 
-    <!--== Start Team Area ==-->
-    <section hidden class="team-area team-style1-area">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 m-auto">
-                    <div class="section-title text-center">
-                        <h4 class="subtitle">TEAM MEMBERS</h4>
-                        <h2 class="title">Highly Experienced Team</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-12">
-                    <div class="team-slider-content">
-                        <div class="swiper-container team-slider-container">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="team-member">
-                                        <div class="thumb">
-                                            <img src="/assets/img/team/1.webp.jpeg" alt="Image" width="161"
-                                                height="199">
-                                        </div>
-                                        <div class="content">
-                                            <div class="member-info">
-                                                <h4 class="name">Keshia Mchugh</h4>
-                                                <h6 class="designation">Delivery Manager</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="team-member">
-                                        <div class="thumb">
-                                            <img src="/assets/img/team/2.webp.jpeg" alt="Image" width="161"
-                                                height="199">
-                                        </div>
-                                        <div class="content">
-                                            <div class="member-info">
-                                                <h4 class="name">Robin Justice</h4>
-                                                <h6 class="designation">Cargo Supervisor</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="team-member">
-                                        <div class="thumb">
-                                            <img src="/assets/img/team/3.webp.jpeg" alt="Image" width="161"
-                                                height="199">
-                                        </div>
-                                        <div class="content">
-                                            <div class="member-info">
-                                                <h4 class="name">Kandis Justice</h4>
-                                                <h6 class="designation">Cargo Supervisor</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="team-member">
-                                        <div class="thumb">
-                                            <img src="/assets/img/team/4.webp.jpeg" alt="Image" width="161"
-                                                height="199">
-                                        </div>
-                                        <div class="content">
-                                            <div class="member-info">
-                                                <h4 class="name">Sacha Preston</h4>
-                                                <h6 class="designation">Delivery Manager</h6>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--== End Team Area ==-->
 
     <!--== Start Testimonial Area Wrapper ==-->
     <section class="testimonial-area testimonial-default-area">
@@ -395,5 +325,3 @@
     </section>
     <!--== End Divider Area Wrapper ==-->
 </main>
-
-
