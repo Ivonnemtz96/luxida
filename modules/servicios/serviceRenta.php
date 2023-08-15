@@ -63,7 +63,7 @@
                           </div>
                       </div>
                       <div class="col-8">
-                          <h2>Retroexcavadora con o sin martillo</h2>
+                          <h2>Retroexcavadora cono sin martillo</h2>
                           <p>
                               Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi debitis hic, minus illum
                               totam inventore voluptatibus? Aut error nesciunt numquam quidem pariatur aspernatur
